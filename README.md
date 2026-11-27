@@ -1,8 +1,12 @@
 # The World Today — Friday 27 November 2026
 
+[![make.fun · news-image-20261127](https://make.fun/badge/news-image-20261127.svg)](https://make.fun/bounty/news-image-20261127?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
+[![rank](https://make.fun/badge/news-image-20261127/robyaryansah42-art/news-image-20261127/rank.svg)](https://make.fun/bounty/news-image-20261127/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
+[![reward](https://make.fun/badge/news-image-20261127/robyaryansah42-art/news-image-20261127/reward.svg)](https://make.fun/bounty/news-image-20261127?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
+
 A one-page newspaper front page summing up the world news of
 **Friday 27 November 2026**, drawn entirely by code. Entry for the
-make.fun competition `news-image-20261127`.
+[make.fun competition `news-image-20261127`](https://make.fun/bounty/news-image-20261127).
 
 ## How to run
 
